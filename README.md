@@ -16,3 +16,7 @@ In this competition, your task is to predict engagement with a pet's profile bas
 
 ## About the team:
 We are working on this competition as a part of Machine learning class project. Our objective is to learn and develop our understanding of Vision transformers, and doing regression and classification on image data.
+
+
+#### Note:
+Plotly Express visualizations may not be visible in the notebook, you may have to run it on your system to see them
