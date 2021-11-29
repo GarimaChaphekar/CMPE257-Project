@@ -5,7 +5,7 @@
 * Garima Chaphekar (014638871)
 * Swapnil Parihar
 * Nimit Patel
-* 
+* Himayu Mahnot
 
 ## About Kaggle competition:
 In this competition, your task is to predict engagement with a pet's profile based on the photograph for that profile. You are also provided with hand-labelled metadata for each photo. The dataset for this competition therefore comprises both images and tabular data.
