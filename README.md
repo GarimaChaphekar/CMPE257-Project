@@ -2,7 +2,7 @@
 
 ## Team Members:
 * Ryan Tran
-* Garima Chaphekar
+* Garima Chaphekar (014638871)
 * Swapnil Parihar
 * Nimit Patel
 * 
